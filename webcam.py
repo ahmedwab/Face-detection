@@ -1,7 +1,7 @@
 import cv2
 
 
-# Getting live video from webcam
+# Capturing the Video Stream
 webcam = cv2.VideoCapture(0)
 
 
