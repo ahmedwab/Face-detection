@@ -30,13 +30,13 @@ To get a local copy up and running follow these simple steps.
 You will need to install a version of python3
 Note: python 3 and 2 can be used simultaneously.
 
-* npm
+* python3
   ```sh
   $ sudo apt-get install python3 python3-pip
   ```
 
 Also, you will need to download opencv library.
-* npm
+* opencv
   ```sh
   $ sudo pip3 install opencv
   ```
