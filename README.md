@@ -13,7 +13,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A face detection softwae built to detect facial images from a webcam and count the amount of faces detectable.
+A face detection software built to detect facial images from a webcam and count the amount of faces detectable.
 
 
 
